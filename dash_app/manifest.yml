@@ -1,0 +1,6 @@
+applications:
+- name: dash-capstone
+  random-route: true
+  memory: 256M
+  docker:
+     image: kcostya/python-dash
