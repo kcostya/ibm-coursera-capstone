@@ -1,5 +1,5 @@
 """
-Hello World app for running Python apps on Bluemix
+IBM Coursera Advanced Data Science Capstone Project - Demo App
 """
 
 # Always prefer setuptools over distutils
@@ -15,10 +15,10 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='hello-dash',
+    name='dash-capstone',
     version='1.0.0',
-    description='Hello World app for running Python apps on Bluemix',
+    description='IBM Coursera Advanced Data Science Capstone Project - Demo App',
     long_description=long_description,
-    url='https://github.com/IBM-Bluemix/python-hello-world-flask',
+    url='https://github.com/kcostya/ibm-coursera-capstone/tree/master/dash_app',
     license='Apache-2.0'
 )
