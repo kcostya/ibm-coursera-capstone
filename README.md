@@ -14,7 +14,7 @@ https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/
 ## Python on IBM Cloud
 ### Instruction on setting up a development environment and deploying Python Dash app (Flask inside) with  to IBM Cloud.
 
-## Prerequisites
+#### Prerequisites
 
 You'll need the following:
 * [IBM Cloud account](https://console.ng.bluemix.net/registration/)
