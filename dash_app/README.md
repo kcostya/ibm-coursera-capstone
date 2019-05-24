@@ -1,6 +1,6 @@
-# Getting Started with Python on IBM Cloud
+## Getting Started with Python on IBM Cloud
 
-Sample Python Dash (Flask inside) app with instruction on setting up a development environment and deploying to IBM Cloud.
+Sample Python Dash app (Flask inside) with instruction on setting up a development environment and deploying to IBM Cloud.
 
 ## Prerequisites
 
@@ -9,7 +9,7 @@ You'll need the following:
 * [Cloud Foundry CLI](https://github.com/cloudfoundry/cli#downloads)
 * [Git](https://git-scm.com/downloads)
 * [Python](https://www.python.org/downloads/)
-* [Docker and a Docker Hub account] (https://hub.docker.com/)
+* [Docker and a Docker Hub account](https://hub.docker.com/)
 
 1. Cloud Foundry apps require a manifest file with some application configurations to be defined. These must be in the application root (dash-app directory in this case). The `manifest.yml` file must be created and should contain the following:
 ```
