@@ -11,6 +11,8 @@ The company, the most preferred holiday resort chain in India makes significant 
 The problem statement and data was provided by Club Mahindra at online hackathon DataOlympics in association with Analytics Vidhya:
 https://datahack.analyticsvidhya.com/contest/club-mahindra-dataolympics/
 
+[Video presentation](https://www.youtube.com/watch?v=9dSPsW8JDVY&feature=youtu.be)
+
 ## Python on IBM Cloud
 ### Instruction on setting up a development environment and deploying Python Dash app (Flask inside) with  to IBM Cloud.
 
