@@ -5,7 +5,7 @@ cffi==1.12.3
 chardet==3.0.4
 Click==7.0
 cloudant==2.4.0
-cryptography==2.6.1
+cryptography==3.2
 dash==0.43.0
 dash-core-components==0.48.0
 dash-html-components==0.16.0
